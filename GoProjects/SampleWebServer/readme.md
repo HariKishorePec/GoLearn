@@ -1,1 +1,1 @@
-Run 'go run main.go' to start the server.
+Run `go run main.go` to start the server.
